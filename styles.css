@@ -1,0 +1,158 @@
+/* Ultimate Obsidian Sync — connection flow modal (src/ui/connect-flow.ts) */
+
+.uos-connect-modal .uos-muted {
+  color: var(--text-muted);
+  font-size: var(--font-ui-small);
+}
+
+.uos-connect-modal .uos-verify-link {
+  display: block;
+  margin: 4px 0 8px;
+  word-break: break-all;
+}
+
+.uos-connect-modal .uos-user-code {
+  font-size: 2rem;
+  letter-spacing: 0.25em;
+  font-weight: 700;
+  color: var(--text-normal);
+  background: var(--background-primary);
+  border: 2px solid var(--interactive-accent);
+  border-radius: 6px;
+  padding: 8px 24px;
+  display: inline-block;
+  margin: 12px auto;
+  font-family: monospace;
+  user-select: all;
+}
+
+.uos-connect-modal .uos-copy-btn {
+  margin-top: 4px;
+}
+
+.uos-connect-modal .uos-cancel-btn {
+  display: block;
+  margin: 16px auto 0;
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  text-decoration: underline;
+  box-shadow: none;
+}
+
+.uos-connect-modal .uos-waiting {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin: 16px 0;
+  color: var(--text-muted);
+}
+
+.uos-connect-modal .uos-spinner {
+  width: 18px;
+  height: 18px;
+  flex: 0 0 auto;
+  border: 2px solid var(--background-modifier-border);
+  border-top-color: var(--interactive-accent);
+  border-radius: 50%;
+  animation: uos-spin 0.8s linear infinite;
+}
+
+.uos-connect-modal .uos-error-text {
+  color: var(--text-error);
+}
+
+.uos-connect-modal .uos-raw-detail {
+  color: var(--text-faint);
+  font-size: var(--font-ui-smaller);
+  word-break: break-word;
+  background: var(--background-secondary);
+  border-radius: 4px;
+  padding: 6px 8px;
+}
+
+@keyframes uos-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* ── Conflict modal (src/ui/conflict-modal.ts) ───────────────────────────── */
+.uos-conflict-diff {
+  background: var(--background-secondary);
+  padding: 8px;
+  border-radius: 4px;
+  overflow: auto;
+  max-height: 180px;
+  font-size: 12px;
+}
+
+.uos-conflict-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin: 12px 0;
+}
+
+.uos-conflict-ours {
+  background: #1a3a1a;
+  padding: 8px;
+  border-radius: 4px;
+  overflow: auto;
+  max-height: 260px;
+  font-size: 11px;
+  white-space: pre-wrap;
+}
+
+.uos-conflict-theirs {
+  background: #1a1a3a;
+  padding: 8px;
+  border-radius: 4px;
+  overflow: auto;
+  max-height: 260px;
+  font-size: 11px;
+  white-space: pre-wrap;
+}
+
+/* ── Connect flow form (src/ui/connect-flow.ts) — replaces inline styles ── */
+.uos-connect-modal .uos-label-block {
+  display: block;
+}
+
+.uos-connect-modal .uos-full-input {
+  width: 100%;
+  margin: 4px 0 8px;
+}
+
+.uos-connect-modal .uos-select-full {
+  width: 100%;
+  margin: 4px 0 2px;
+}
+
+.uos-connect-modal .uos-list-status {
+  margin: 4px 0 0;
+}
+
+.uos-connect-modal .uos-refresh-link {
+  display: block;
+  text-align: right;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.uos-connect-modal .uos-btn-row {
+  display: flex;
+  gap: 8px;
+  justify-content: flex-end;
+  margin-top: 8px;
+}
+
+.uos-connect-modal .uos-btn-row--spaced {
+  margin-top: 12px;
+}
+
+.uos-status-bar {
+  cursor: pointer;
+}

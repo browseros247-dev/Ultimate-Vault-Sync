@@ -1,0 +1,217 @@
+{
+  "esbuild.config.mjs": {
+    "mtime": 1787219084.5655882,
+    "ast_hash": "617f211d55a56f722397ab9341741e42",
+    "semantic_hash": "617f211d55a56f722397ab9341741e42"
+  },
+  "manifest.json": {
+    "mtime": 1787200078.2914195,
+    "ast_hash": "257902ac5d5107ed3dc84f658fbde117",
+    "semantic_hash": "257902ac5d5107ed3dc84f658fbde117"
+  },
+  "package.json": {
+    "mtime": 1787201514.6322544,
+    "ast_hash": "46342e4609f9d02e992075a29b6eb52a",
+    "semantic_hash": "46342e4609f9d02e992075a29b6eb52a"
+  },
+  "src/auth/github-device.ts": {
+    "mtime": 1787160378.796886,
+    "ast_hash": "4db8da9b84f8c79dc47c01e2d1ebec7d",
+    "semantic_hash": "4db8da9b84f8c79dc47c01e2d1ebec7d"
+  },
+  "src/constants.ts": {
+    "mtime": 1787200080.1914477,
+    "ast_hash": "53b964545e678767c4dd3f4eb19546ab",
+    "semantic_hash": "53b964545e678767c4dd3f4eb19546ab"
+  },
+  "src/debug/logger.ts": {
+    "mtime": 1787200079.0410137,
+    "ast_hash": "c9aad1398d5dcd0205165ead9dda82b1",
+    "semantic_hash": "c9aad1398d5dcd0205165ead9dda82b1"
+  },
+  "src/github/api.ts": {
+    "mtime": 1787159118.25555,
+    "ast_hash": "63c8d51419bfc5db42615b0064b0eaa7",
+    "semantic_hash": "63c8d51419bfc5db42615b0064b0eaa7"
+  },
+  "src/main.ts": {
+    "mtime": 1787234643.8775098,
+    "ast_hash": "87646b5864c345a69f88b56bff7de867",
+    "semantic_hash": "87646b5864c345a69f88b56bff7de867"
+  },
+  "src/shim/buffer.ts": {
+    "mtime": 1787219084.5552335,
+    "ast_hash": "1d45afaa51fdb3cfe149fcc140935249",
+    "semantic_hash": "1d45afaa51fdb3cfe149fcc140935249"
+  },
+  "src/sync/conflict.ts": {
+    "mtime": 1787160378.7983992,
+    "ast_hash": "efba5d09f0ad17fb1465ee344c151f64",
+    "semantic_hash": "efba5d09f0ad17fb1465ee344c151f64"
+  },
+  "src/sync/fs-adapter.ts": {
+    "mtime": 1787238111.9984894,
+    "ast_hash": "fbc4f6bc2e7a9d7d9450f7ebc0568166",
+    "semantic_hash": ""
+  },
+  "src/sync/git-sync.ts": {
+    "mtime": 1787238076.1463056,
+    "ast_hash": "f919c6a6d817cf7721bc4e787e29d449",
+    "semantic_hash": ""
+  },
+  "src/sync/queue.ts": {
+    "mtime": 1787238098.2062998,
+    "ast_hash": "3d935a299ded658c584b9bb628055e06",
+    "semantic_hash": ""
+  },
+  "src/types.ts": {
+    "mtime": 1787234618.461056,
+    "ast_hash": "ca33e413ebec8c8f3203f35f0794586e",
+    "semantic_hash": "ca33e413ebec8c8f3203f35f0794586e"
+  },
+  "src/ui/conflict-modal.ts": {
+    "mtime": 1787160378.7999113,
+    "ast_hash": "73f3eb6d60316aa8068beb91b5d006ef",
+    "semantic_hash": "73f3eb6d60316aa8068beb91b5d006ef"
+  },
+  "src/ui/settings-tab.ts": {
+    "mtime": 1787234605.751773,
+    "ast_hash": "48684c024ed08dab91f80b9c2ffa17b6",
+    "semantic_hash": "48684c024ed08dab91f80b9c2ffa17b6"
+  },
+  "src/ui/status-bar.ts": {
+    "mtime": 1787200154.8836153,
+    "ast_hash": "62eed76b4ee00b98aee9bc2a67b5a296",
+    "semantic_hash": "62eed76b4ee00b98aee9bc2a67b5a296"
+  },
+  "tsconfig.json": {
+    "mtime": 1787154787.122184,
+    "ast_hash": "5cdcbe1c0c42ff45155dbded01efef26",
+    "semantic_hash": "5cdcbe1c0c42ff45155dbded01efef26"
+  },
+  "versions.json": {
+    "mtime": 1787154787.1236954,
+    "ast_hash": "d19a4c4a5b5b067b8e3818fe8c994da6",
+    "semantic_hash": "d19a4c4a5b5b067b8e3818fe8c994da6"
+  },
+  ".github/workflows/release.yml": {
+    "mtime": 1787154787.1101718,
+    "ast_hash": "63bbbb67eb948935e5b7b57867c95356",
+    "semantic_hash": "63bbbb67eb948935e5b7b57867c95356"
+  },
+  "README.md": {
+    "mtime": 1787200177.022719,
+    "ast_hash": "9cfdcd2de890d9018325673a55d105f1",
+    "semantic_hash": "9cfdcd2de890d9018325673a55d105f1"
+  },
+  "C:\\Users\\25804\\Downloads\\ABDM\\Default_Opencode_Dir\\github-valut-sync\\esbuild.config.mjs": {
+    "mtime": 1787219084.5655882,
+    "ast_hash": "617f211d55a56f722397ab9341741e42",
+    "semantic_hash": "617f211d55a56f722397ab9341741e42"
+  },
+  "C:\\Users\\25804\\Downloads\\ABDM\\Default_Opencode_Dir\\github-valut-sync\\manifest.json": {
+    "mtime": 1787200078.2914195,
+    "ast_hash": "257902ac5d5107ed3dc84f658fbde117",
+    "semantic_hash": "257902ac5d5107ed3dc84f658fbde117"
+  },
+  "C:\\Users\\25804\\Downloads\\ABDM\\Default_Opencode_Dir\\github-valut-sync\\package.json": {
+    "mtime": 1787201514.6322544,
+    "ast_hash": "46342e4609f9d02e992075a29b6eb52a",
+    "semantic_hash": "46342e4609f9d02e992075a29b6eb52a"
+  },
+  "C:\\Users\\25804\\Downloads\\ABDM\\Default_Opencode_Dir\\github-valut-sync\\src\\auth\\github-device.ts": {
+    "mtime": 1787281364.1639814,
+    "ast_hash": "c6fa487b8ac098f2764fafa92def30c3",
+    "semantic_hash": "c6fa487b8ac098f2764fafa92def30c3"
+  },
+  "C:\\Users\\25804\\Downloads\\ABDM\\Default_Opencode_Dir\\github-valut-sync\\src\\constants.ts": {
+    "mtime": 1787200080.1914477,
+    "ast_hash": "53b964545e678767c4dd3f4eb19546ab",
+    "semantic_hash": "53b964545e678767c4dd3f4eb19546ab"
+  },
+  "C:\\Users\\25804\\Downloads\\ABDM\\Default_Opencode_Dir\\github-valut-sync\\src\\debug\\errors.ts": {
+    "mtime": 1787246817.127157,
+    "ast_hash": "ce95a1ce5b9668da8539fb3832cb910e",
+    "semantic_hash": "ce95a1ce5b9668da8539fb3832cb910e"
+  },
+  "C:\\Users\\25804\\Downloads\\ABDM\\Default_Opencode_Dir\\github-valut-sync\\src\\debug\\logger.ts": {
+    "mtime": 1787246838.930848,
+    "ast_hash": "a08855c315be9b35724db9b498d1c421",
+    "semantic_hash": "a08855c315be9b35724db9b498d1c421"
+  },
+  "C:\\Users\\25804\\Downloads\\ABDM\\Default_Opencode_Dir\\github-valut-sync\\src\\github\\api.ts": {
+    "mtime": 1787245685.9113817,
+    "ast_hash": "b30af96d701783eeded66c3d6dfcee38",
+    "semantic_hash": "b30af96d701783eeded66c3d6dfcee38"
+  },
+  "C:\\Users\\25804\\Downloads\\ABDM\\Default_Opencode_Dir\\github-valut-sync\\src\\main.ts": {
+    "mtime": 1787281344.1024141,
+    "ast_hash": "06e49cf6604f9f41292348c033656459",
+    "semantic_hash": "06e49cf6604f9f41292348c033656459"
+  },
+  "C:\\Users\\25804\\Downloads\\ABDM\\Default_Opencode_Dir\\github-valut-sync\\src\\shim\\buffer.ts": {
+    "mtime": 1787219084.5552335,
+    "ast_hash": "1d45afaa51fdb3cfe149fcc140935249",
+    "semantic_hash": "1d45afaa51fdb3cfe149fcc140935249"
+  },
+  "C:\\Users\\25804\\Downloads\\ABDM\\Default_Opencode_Dir\\github-valut-sync\\src\\sync\\conflict.ts": {
+    "mtime": 1787160378.7983992,
+    "ast_hash": "efba5d09f0ad17fb1465ee344c151f64",
+    "semantic_hash": "efba5d09f0ad17fb1465ee344c151f64"
+  },
+  "C:\\Users\\25804\\Downloads\\ABDM\\Default_Opencode_Dir\\github-valut-sync\\src\\sync\\fs-adapter.ts": {
+    "mtime": 1787238111.9984894,
+    "ast_hash": "fbc4f6bc2e7a9d7d9450f7ebc0568166",
+    "semantic_hash": "fbc4f6bc2e7a9d7d9450f7ebc0568166"
+  },
+  "C:\\Users\\25804\\Downloads\\ABDM\\Default_Opencode_Dir\\github-valut-sync\\src\\sync\\git-sync.ts": {
+    "mtime": 1787281359.726507,
+    "ast_hash": "60e7e2206b7f8c8babd1dbdc3ae125ed",
+    "semantic_hash": "60e7e2206b7f8c8babd1dbdc3ae125ed"
+  },
+  "C:\\Users\\25804\\Downloads\\ABDM\\Default_Opencode_Dir\\github-valut-sync\\src\\sync\\queue.ts": {
+    "mtime": 1787247131.0282736,
+    "ast_hash": "425415882c94208e82bc3fcae8bbf987",
+    "semantic_hash": "425415882c94208e82bc3fcae8bbf987"
+  },
+  "C:\\Users\\25804\\Downloads\\ABDM\\Default_Opencode_Dir\\github-valut-sync\\src\\types.ts": {
+    "mtime": 1787246849.3630357,
+    "ast_hash": "5c6089eeb44ddbeb6bba6a1814b36352",
+    "semantic_hash": "5c6089eeb44ddbeb6bba6a1814b36352"
+  },
+  "C:\\Users\\25804\\Downloads\\ABDM\\Default_Opencode_Dir\\github-valut-sync\\src\\ui\\conflict-modal.ts": {
+    "mtime": 1787160378.7999113,
+    "ast_hash": "73f3eb6d60316aa8068beb91b5d006ef",
+    "semantic_hash": "73f3eb6d60316aa8068beb91b5d006ef"
+  },
+  "C:\\Users\\25804\\Downloads\\ABDM\\Default_Opencode_Dir\\github-valut-sync\\src\\ui\\settings-tab.ts": {
+    "mtime": 1787281370.4554577,
+    "ast_hash": "7ca0433ca7f2cb310fdf36fccf692fd3",
+    "semantic_hash": "7ca0433ca7f2cb310fdf36fccf692fd3"
+  },
+  "C:\\Users\\25804\\Downloads\\ABDM\\Default_Opencode_Dir\\github-valut-sync\\src\\ui\\status-bar.ts": {
+    "mtime": 1787200154.8836153,
+    "ast_hash": "62eed76b4ee00b98aee9bc2a67b5a296",
+    "semantic_hash": "62eed76b4ee00b98aee9bc2a67b5a296"
+  },
+  "C:\\Users\\25804\\Downloads\\ABDM\\Default_Opencode_Dir\\github-valut-sync\\tsconfig.json": {
+    "mtime": 1787154787.122184,
+    "ast_hash": "5cdcbe1c0c42ff45155dbded01efef26",
+    "semantic_hash": "5cdcbe1c0c42ff45155dbded01efef26"
+  },
+  "C:\\Users\\25804\\Downloads\\ABDM\\Default_Opencode_Dir\\github-valut-sync\\versions.json": {
+    "mtime": 1787154787.1236954,
+    "ast_hash": "d19a4c4a5b5b067b8e3818fe8c994da6",
+    "semantic_hash": "d19a4c4a5b5b067b8e3818fe8c994da6"
+  },
+  "C:\\Users\\25804\\Downloads\\ABDM\\Default_Opencode_Dir\\github-valut-sync\\.github\\workflows\\release.yml": {
+    "mtime": 1787154787.1101718,
+    "ast_hash": "63bbbb67eb948935e5b7b57867c95356",
+    "semantic_hash": "63bbbb67eb948935e5b7b57867c95356"
+  },
+  "C:\\Users\\25804\\Downloads\\ABDM\\Default_Opencode_Dir\\github-valut-sync\\README.md": {
+    "mtime": 1787247340.4489007,
+    "ast_hash": "4bc50ad02a7289627b651a255be3a480",
+    "semantic_hash": "4bc50ad02a7289627b651a255be3a480"
+  }
+}

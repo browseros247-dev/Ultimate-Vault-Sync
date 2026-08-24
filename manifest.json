@@ -1,0 +1,11 @@
+{
+  "id": "ultimate-vault-sync",
+  "name": "Ultimate Vault Sync",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Sync your vault across all devices using your own GitHub account. Free forever.",
+  "author": "🥰 Code boy 🥰",
+  "authorUrl": "https://github.com/browseros247-dev",
+  "fundingUrl": "",
+  "isDesktopOnly": false
+}
